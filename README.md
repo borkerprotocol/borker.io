@@ -1,6 +1,6 @@
 # site
 
-Website for Borker, forked from the [Grin Website](https://github.com/mimblewimble/grin/site)
+Website for Borker, forked from the [Grin Website](https://github.com/mimblewimble/site)
 
 ## Local run
 
