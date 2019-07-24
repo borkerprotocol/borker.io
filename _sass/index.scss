@@ -55,9 +55,9 @@ hr {
   cursor: pointer;
   display: inline-block;
   font-family: "Inter UI";
-  font-size: 16px;
+  font-size: 18px;
   flex-grow: 0;
-  padding: 10px 15px;
+  padding: 16px 30px;
   margin-right: 20px;
   outline: 0;
   transition: all .15s ease;
@@ -76,7 +76,7 @@ hr {
   line-height: 30px;
 }
 .grin-logo {
-  width: 280px;
+  width: 260px;
 }
 #status {
   align-items: center;
@@ -178,30 +178,6 @@ hr {
   min-width: 200px;
   &:last-child {
     margin-right: 0;
-  }
-}
-.info-box {
-  border-radius: 4px;
-  border: 1px solid #f2f2f2;
-  box-shadow: 0 10px 45px -12px rgba(93, 90, 50, 0.25), 0 18px 36px -18px rgba(0, 0, 0, .3);
-  padding: $small;
-  transition: all .15s ease;
-  &:hover {
-    box-shadow: 0 15px 55px -12px rgba(93, 90, 50, 0.25), 0 18px 36px -18px rgba(0, 0, 0, .3);
-    transform: translateY(-2px);
-  }
-  &:hover > .info-learn-more:after {
-    margin-left: 10px;
-  }
-}
-.info-learn-more {
-  color: #151515;
-  font-size: 14px;
-  font-weight: 700;
-  &:after {
-    content: "\2192";
-    margin-left: 6px;
-    transition: all .15s ease;
   }
 }
 .info-banner {
@@ -380,6 +356,7 @@ hr {
   }
   .grin-logo {
     width: 280px;
+    margin-bottom: 20px;
   }
   .info {
     display: block;
