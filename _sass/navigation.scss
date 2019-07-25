@@ -78,10 +78,6 @@ nav ul {
   width: 100%;
   font-weight: 700;
   overflow-y: scroll;
-  // display: flex;
-  // justify-content: center;
-  // align-items: center;
-  // flex-direction: column;
   z-index: 500;
 }
 .nav-mobile.is-active {
@@ -99,8 +95,6 @@ nav ul {
 }
 .nav-mobile li {
   display: block;
-  // text-align: center;
-  // line-height: 1.1em;
   margin-bottom: $tiny;
 }
 .nav-mobile li a {
