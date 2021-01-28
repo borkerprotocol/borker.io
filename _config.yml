@@ -1,5 +1,5 @@
-title: "Borker - Censorship Resistance"
-description: "Borker Protocol is an application layer protocol for Bitcoin, Dogecoin and similar UTXO-based, transparent blockchains. Borker is open, decentralized, borderless, permissionless, pseudonymous, immutable, and censorship-resistant."
+title: "Borker Protocol"
+description: "Censorship resistant, immutable Twitter clone built on top of Bitcoin, Dogecoin and similar UTXO-based, transparent blockchains"
 image: "https://borker.io/assets/images/borker-logo.png"
 keywords: "censorship-resistant,immutable,decentralized,news,bitcoin,dogecoin,blockchain,"
 locale: "en-US"
